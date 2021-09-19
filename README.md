@@ -9,6 +9,7 @@ Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programm
 - 🔭 I’m currently working on Machine Learning, OpenCV and EDA Projects. 
 - 🌱 I’m currently learning ROS and Deep Learning. 
 - 👯 I’m looking to collaborate on AI, Machine Learning , Robotics / Automation and Data Science 
+- 📫 How to reach me: ankit17421@gmail.com 
 
 <h3 id="connect-with-me" align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +29,3 @@ Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programm
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumar174&show_icons=true&theme=radical)
-
-
-
-
-
-
