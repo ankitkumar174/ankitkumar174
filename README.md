@@ -24,7 +24,7 @@ Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programm
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar174&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumar174&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar174&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
