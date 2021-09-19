@@ -12,7 +12,7 @@ Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programm
 
 <h3 id="connect-with-me" align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:ankit17421@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
+  <a href="mailto:ankit17421@gmail.com'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="ankit17421" height="40" width="40" /></fa>
 <a href="https://linkedin.com/in/ankit-kumar-060398212" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="ankit-kumar-060398212" height="40" width="40" /></a>
   <a href="https://instagram.com/ankit21417" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="ankit21417" height="40" width="40" /></a>
 </p>
