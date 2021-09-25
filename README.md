@@ -1,10 +1,5 @@
 ### Hi, I'm Ankit 👋 
 
-![github-social](https://user-images.githubusercontent.com/85494641/134776717-08714374-93b4-481f-a371-2fb3a18b2ddc.png)
-
-
-
-
 #### A Mechatronics engineer
 I'm Ankit Kumar from India and I do Machine Learning, Deep Learning and data Science. I really enjoy learning about AI and Robotics.
 
