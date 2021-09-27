@@ -4,7 +4,7 @@
 I'm Ankit Kumar from India and I do Machine Learning, Deep Learning and data Science. I really enjoy learning about AI and Robotics.
 
 
-Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programmer / RPA / Aurdino  
+Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programmer / RPA / Arduino 
 
 - 🔭 I’m currently working on Machine Learning, OpenCV and EDA Projects. 
 - 🌱 I’m currently learning ROS and Deep Learning. 
