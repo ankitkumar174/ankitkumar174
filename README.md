@@ -11,6 +11,8 @@ Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programm
 - 👯 I’m looking to collaborate on AI, Machine Learning , Robotics / Automation and Data Science 
 - 📫 How to reach me: ankit17421@gmail.com 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar174&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar174" /> </p>
+
 <h3 id="connect-with-me" align="left">Connect with me :</h3>
 <p align="left">
  <a href="https://linkedin.com/in/ankit-kumar-060398212" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="ankit-kumar-060398212" height="40" width="40" /></a>
