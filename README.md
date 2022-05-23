@@ -4,10 +4,10 @@
 I'm Ankit Kumar from India and I do Machine Learning, Deep Learning and data Science. I really enjoy learning about AI and Robotics.
 
 
-Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programmer / RPA / Arduino 
+Skills: Machine Learning / Deep Learning / Advance Excel / VBA / Python Programmer / Selenium / Arduino 
 
-- 🔭 I’m currently working on Machine Learning, OpenCV and EDA Projects. 
-- 🌱 I’m currently learning ROS and Deep Learning. 
+- 🔭 I’m currently working on Deep Learning, NLP and DSA. 
+- 🌱 I’m currently learning ROS and Transfer Functions. 
 - 👯 I’m looking to collaborate on AI, Machine Learning , Robotics / Automation and Data Science 
 - 📫 How to reach me, ping me on this email address: ankit17421@gmail.com 
 
