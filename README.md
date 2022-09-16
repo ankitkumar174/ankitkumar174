@@ -1,3 +1,7 @@
+
+![1500x500](https://user-images.githubusercontent.com/85494641/190580268-0466781c-448b-48ff-9fc1-8fb1c33203d4.jpg)
+
+
 ### Hi, I'm Ankit 👋 
 
 #### A Mechatronics engineer
